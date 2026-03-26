@@ -4,7 +4,8 @@
   "description": "- i'm adding this from 'feature-branch'",
   "main": "hrllo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js",
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
